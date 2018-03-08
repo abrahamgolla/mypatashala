@@ -1,0 +1,111 @@
+{
+    "data": {
+        "user": {
+            "lastName": "Jasper",
+            "gender": "MALE",
+            "relationDescription": "FATHER",
+            "phone2": "9999999999",
+            "students": [
+                {
+                    "lastName": "Jasper",
+                    "lastUpdatedBy": null,
+                    "addresses": null,
+                    "effectiveSequence": 0,
+                    "entryDate": 1530921600000,
+                    "rollNo": "1001",
+                    "createdDateTime": 0,
+                    "section": null,
+                    "dateOfBirth": 1444435200000,
+                    "joiningDate": 1530921600000,
+                    "userIdentity": null,
+                    "schoolBranch": null,
+                    "studentClass": {
+                        "sectionAvailable": false,
+                        "schoolSections": null,
+                        "classId": "CLASS1519825716561",
+                        "classSubjects": null,
+                        "schoolbranch": {
+                            "country": {
+                                "stateEnabled": true,
+                                "countryCode": "IND",
+                                "address3Enabled": true,
+                                "districts": null,
+                                "address2Enabled": true,
+                                "address4Enabled": true,
+                                "countryName": "INDIA",
+                                "address1Enabled": true,
+                                "postalCodeEnabled": true,
+                                "cityEnabled": true,
+                                "states": null
+                            },
+                            "lastUpdated_dttm": 1519825636000,
+                            "city": "Hyderabad",
+                            "coEd": false,
+                            "postalCode": 500026,
+                            "classes": null,
+                            "branchLongitude": "78.506033",
+                            "branchEnabled": true,
+                            "schoolCalendars": null,
+                            "school": null,
+                            "teachers": null,
+                            "addressLine1": "8-43-17/25, Wellington Rd",
+                            "addressLine2": "Krishnapuri, West Marredpally",
+                            "addressLine3": "Secunderabad",
+                            "state": {
+                                "dateTime": 1515330815000,
+                                "country": null,
+                                "stateEnabled": true,
+                                "stateName": "TELANGANA",
+                                "effectiveDateTime": 1515330815000,
+                                "districts": [],
+                                "stateCode": "IND-TS"
+                            },
+                            "branchType": null,
+                            "addressLine4": null,
+                            "created_dttm": 1519825636000,
+                            "branchLatitude": "17.4559811",
+                            "branchId": "BRANCH1519825636044",
+                            "lastUpdatedBy": "Abraham",
+                            "classSubjects": null,
+                            "branchName": "Hyderabad",
+                            "sections": null,
+                            "categoryType": null,
+                            "effectiveDateTime": 1515332915000,
+                            "createdBy": "Abraham",
+                            "district": {
+                                "dateTime": 1515331715000,
+                                "country": null,
+                                "districtCode": "IND-TS-RR",
+                                "districtName": "Rangareddy",
+                                "effectiveDateTime": 1515331715000,
+                                "districtEnabled": true,
+                                "state": null
+                            }
+                        },
+                        "description": "Grade 5"
+                    },
+                    "studentId": "STUDENT1520536744870",
+                    "issuingAuthority": null,
+                    "firstName": "Mary",
+                    "school": null,
+                    "effectiveDateTime": 0,
+                    "createdBy": null,
+                    "identityNumber": null,
+                    "studentAvailable": false,
+                    "middleName": "Evangeline",
+                    "lastUpdatedDateTime": 0,
+                    "parents": null
+                }
+            ],
+            "emailId": "joseph@gmail.com",
+            "userIdentity": null,
+            "parentId": "Parent15205367449580",
+            "phone1": "9898989898",
+            "firstName": "Joseph",
+            "identityNumber": null,
+            "middleName": null,
+            "relationship": "FATHER"
+        }
+    },
+    "result": true
+}
