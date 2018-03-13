@@ -1,0 +1,10 @@
+{
+    "data": {
+        "securityQuestions": [
+            "WHAT IS YOUR FAVOURITE FOOD?",
+            "WHAT IS YOUR FLOOR COLOR?",
+            "WHAT IS YOUR FIRST VEHICLE?"
+        ]
+    },
+    "result": true
+}
