@@ -1,0 +1,231 @@
+{
+    "data": [
+        {
+            "updateId": "UPDATE1521900216101",
+            "updateTitle": "Easter Celebrations",
+            "updateType": "URL",
+            "updateDescription": "Welcome to our Easter Celebrations",
+            "startDateTime": 1522540800000,
+            "endDateTime": 1522548000000,
+            "urlPreviewTitle": "New life Assembly of God Church",
+            "urlPreviewDescription": "WIN the Lost, BUILD the Believer, and SEND into the Harvest. We declare that Prayer is our Priority, Evangelism is our Passion, and Discipleship is our Purpose.",
+            "previewImageUrl": "http://newlifeag.in/sites/default/files/newlife-Logo.png",
+            "urlPreviewLink": "http://newlifeag.in/",
+            "createdBy": null,
+            "createdDateTime": 0,
+            "lastUpdatedDateTime": 0,
+            "updateResources": [],
+            "circle": {
+                "circleId": "CIRCLE1521874138544",
+                "category": "SCHOOL",
+                "categoryDivision": "ALL",
+                "descsription": "Contains whole School with all its branches",
+                "createdBy": null,
+                "createdDateTime": 0,
+                "lastUpdatedBy": null,
+                "lastUpdatedDateTime": 0,
+                "branchId": null,
+                "classId": null,
+                "sectionId": null,
+                "schoolId": null,
+                "circleMembers": null
+            }
+        },
+        {
+            "updateId": "UPDATE1521900254270",
+            "updateTitle": "Summer Picnic",
+            "updateType": "PHOTOS",
+            "updateDescription": "Summer picnic at Celebrity Resorts",
+            "startDateTime": 0,
+            "endDateTime": 0,
+            "urlPreviewTitle": null,
+            "urlPreviewDescription": null,
+            "previewImageUrl": null,
+            "urlPreviewLink": null,
+            "createdBy": null,
+            "createdDateTime": 0,
+            "lastUpdatedDateTime": 0,
+            "updateResources": [
+                {
+                    "updateResourceId": "UPDTRESOURCE15219002542700",
+                    "update": null,
+                    "contentKey": "SUMMER-PIC-1",
+                    "contentValue": "/images/summer-picnic/SUMMER-PICNIC-1.jpg",
+                    "updatetype": "PHOTOS",
+                    "contentCaption": "Students having fun",
+                    "albumId": null,
+                    "albumName": null,
+                    "albumDescription": null
+                },
+                {
+                    "updateResourceId": "UPDTRESOURCE15219002542701",
+                    "update": null,
+                    "contentKey": "SUMMER-PIC-2",
+                    "contentValue": "/images/summer-picnic/SUMMER-PICNIC-2.jpg",
+                    "updatetype": "PHOTOS",
+                    "contentCaption": "Students having fun",
+                    "albumId": null,
+                    "albumName": null,
+                    "albumDescription": null
+                },
+                {
+                    "updateResourceId": "UPDTRESOURCE15219002542702",
+                    "update": null,
+                    "contentKey": "SUMMER-PIC-3",
+                    "contentValue": "/images/summer-picnic/SUMMER-PICNIC-3.jpg",
+                    "updatetype": "PHOTOS",
+                    "contentCaption": "Students having fun",
+                    "albumId": null,
+                    "albumName": null,
+                    "albumDescription": null
+                },
+                {
+                    "updateResourceId": "UPDTRESOURCE15219002542703",
+                    "update": null,
+                    "contentKey": "SUMMER-PIC-4",
+                    "contentValue": "/images/summer-picnic/SUMMER-PICNIC-4.jpg",
+                    "updatetype": "PHOTOS",
+                    "contentCaption": "Students having fun",
+                    "albumId": null,
+                    "albumName": null,
+                    "albumDescription": null
+                }
+            ],
+            "circle": {
+                "circleId": "CIRCLE1521874183641",
+                "category": "BRANCH",
+                "categoryDivision": "ALL",
+                "descsription": "Contains All students, Teachers and staff of a school",
+                "createdBy": null,
+                "createdDateTime": 0,
+                "lastUpdatedBy": null,
+                "lastUpdatedDateTime": 0,
+                "branchId": null,
+                "classId": null,
+                "sectionId": null,
+                "schoolId": null,
+                "circleMembers": null
+            }
+        },
+        {
+            "updateId": "UPDATE1521902934971",
+            "updateTitle": "Annual Day",
+            "updateType": "ALBUM",
+            "updateDescription": "Our school Annual Day Celebrations",
+            "startDateTime": 0,
+            "endDateTime": 0,
+            "urlPreviewTitle": null,
+            "urlPreviewDescription": null,
+            "previewImageUrl": null,
+            "urlPreviewLink": null,
+            "createdBy": null,
+            "createdDateTime": 0,
+            "lastUpdatedDateTime": 0,
+            "updateResources": [
+                {
+                    "updateResourceId": "UPDTRESOURCE15219029349710",
+                    "update": null,
+                    "contentKey": "AD-PIC-1",
+                    "contentValue": "/images/annual_day_2018/AD-PIC-1.jpg",
+                    "updatetype": "ALBUM",
+                    "contentCaption": "Students having fun",
+                    "albumId": null,
+                    "albumName": null,
+                    "albumDescription": null
+                },
+                {
+                    "updateResourceId": "UPDTRESOURCE15219029349711",
+                    "update": null,
+                    "contentKey": "AD-PIC-2",
+                    "contentValue": "/images/annual_day_2018/AD-PIC-2.jpg",
+                    "updatetype": "ALBUM",
+                    "contentCaption": "Students having fun",
+                    "albumId": null,
+                    "albumName": null,
+                    "albumDescription": null
+                },
+                {
+                    "updateResourceId": "UPDTRESOURCE15219029349712",
+                    "update": null,
+                    "contentKey": "AD-PIC-3",
+                    "contentValue": "/images/annual_day_2018/AD-PIC-3.jpg",
+                    "updatetype": "ALBUM",
+                    "contentCaption": "Students having fun",
+                    "albumId": null,
+                    "albumName": null,
+                    "albumDescription": null
+                },
+                {
+                    "updateResourceId": "UPDTRESOURCE15219029349713",
+                    "update": null,
+                    "contentKey": "AD-PIC-4",
+                    "contentValue": "/images/annual_day_2018/AD-PIC-4.jpg",
+                    "updatetype": "ALBUM",
+                    "contentCaption": "Students having fun",
+                    "albumId": null,
+                    "albumName": null,
+                    "albumDescription": null
+                }
+            ],
+            "circle": {
+                "circleId": "CIRCLE1521874183641",
+                "category": "BRANCH",
+                "categoryDivision": "ALL",
+                "descsription": "Contains All students, Teachers and staff of a school",
+                "createdBy": null,
+                "createdDateTime": 0,
+                "lastUpdatedBy": null,
+                "lastUpdatedDateTime": 0,
+                "branchId": null,
+                "classId": null,
+                "sectionId": null,
+                "schoolId": null,
+                "circleMembers": null
+            }
+        },
+        {
+            "updateId": "UPDATE1521903528148",
+            "updateTitle": "Childrens Day Celebrations",
+            "updateType": "EVENT",
+            "updateDescription": "Welcome to our Childrens Day Celebrations",
+            "startDateTime": 1522987200000,
+            "endDateTime": 1522994400000,
+            "urlPreviewTitle": null,
+            "urlPreviewDescription": null,
+            "previewImageUrl": null,
+            "urlPreviewLink": null,
+            "createdBy": null,
+            "createdDateTime": 0,
+            "lastUpdatedDateTime": 0,
+            "updateResources": [
+                {
+                    "updateResourceId": "UPDTRESOURCE15219035281480",
+                    "update": null,
+                    "contentKey": "CHILDREN_DAY-PIC-1",
+                    "contentValue": "/images/childrens_day_2018/CHILDREN_DAY_2018.jpg",
+                    "updatetype": "EVENT",
+                    "contentCaption": "Childrens day celebrations at school",
+                    "albumId": null,
+                    "albumName": null,
+                    "albumDescription": null
+                }
+            ],
+            "circle": {
+                "circleId": "CIRCLE1521874183641",
+                "category": "BRANCH",
+                "categoryDivision": "ALL",
+                "descsription": "Contains All students, Teachers and staff of a school",
+                "createdBy": null,
+                "createdDateTime": 0,
+                "lastUpdatedBy": null,
+                "lastUpdatedDateTime": 0,
+                "branchId": null,
+                "classId": null,
+                "sectionId": null,
+                "schoolId": null,
+                "circleMembers": null
+            }
+        }
+    ],
+    "result": true
+}
