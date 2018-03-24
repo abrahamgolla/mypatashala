@@ -1,0 +1,107 @@
+UPDATES
+
+1. URL Type:
+
+{
+	"updateTitle":"Easter Celebrations",
+	"updateType":"URL",
+	"updateDescription":"Welcome to our Easter Celebrations",
+	"startDateTime":1522540800000,
+	"endDateTime":1522548000000,
+	"urlPreviewTitle":"New life Assembly of God Church",
+	"urlPreviewDescription":"WIN the Lost, BUILD the Believer, and SEND into the Harvest. We declare that Prayer is our Priority, Evangelism is our Passion, and Discipleship is our Purpose.",
+	"previewImageUrl":"http://newlifeag.in/sites/default/files/newlife-Logo.png",
+	"urlPreviewLink":"http://newlifeag.in/"
+}
+
+2. PHOTOS Type
+
+{
+	"updateTitle":"Summer Picnic",
+	"updateType":"PHOTOS",
+	"updateDescription":"Summer picnic at Celebrity Resorts",
+	"updateResources":[{
+		"contentValue":"http://localhost:8081/images/summer-picnic/SUMMER-PICNIC-1.jpg",
+		"contentKey":"SUMMER-PIC-1",
+		"updatetype":"PHOTOS",
+		"contentCaption":"Students having fun"
+	},
+	{
+		"contentKey":"SUMMER-PIC-2",
+		"contentValue":"http://localhost:8081/images/summer-picnic/SUMMER-PICNIC-2.jpg",
+		"updatetype":"PHOTOS",
+		"contentCaption":"Students having fun"
+	},
+	{
+		"contentKey":"SUMMER-PIC-3",
+		"contentValue":"http://localhost:8081/images/summer-picnic/SUMMER-PICNIC-3.jpg",
+		"updatetype":"PHOTOS",
+		"contentCaption":"Students having fun"
+	},
+	{
+		"contentKey":"SUMMER-PIC-4",
+		"contentValue":"http://localhost:8081/images/summer-picnic/SUMMER-PICNIC-4.jpg",
+		"updatetype":"PHOTOS",
+		"contentCaption":"Students having fun"
+	}]
+}
+
+3. Album Type:
+
+{
+	"updateTitle":"Annual Day",
+	"updateType":"ALBUM",
+	"updateDescription":"Our school Annual Day Celebrations",
+	"updateResources":[{
+		"contentValue":"http://localhost:8081/images/annual_day_2018/AD-PIC-1.jpg",
+		"contentKey":"AD-PIC-1",
+		"updatetype":"ALBUM",
+		"contentCaption":"Students having fun",
+		"albumName":"ANNUAL_DAY_2018",
+		"albumDescription":"Annual Day Celebrations"
+		
+	},
+	{
+		"contentKey":"AD-PIC-2",
+		"contentValue":"http://localhost:8081/images/annual_day_2018/AD-PIC-2.jpg",
+		"updatetype":"ALBUM",
+		"contentCaption":"Students having fun",
+		"albumName":"ANNUAL_DAY_2018",
+		"albumDescription":"Annual Day Celebrations"
+	},
+	{
+		"contentKey":"AD-PIC-3",
+		"contentValue":"http://localhost:8081/images/annual_day_2018/AD-PIC-3.jpg",
+		"updatetype":"ALBUM",
+		"contentCaption":"Students having fun",
+		"albumName":"ANNUAL_DAY_2018",
+		"albumDescription":"Annual Day Celebrations"
+	},
+	{
+		"contentKey":"AD-PIC-4",
+		"contentValue":"http://localhost:8081/images/annual_day_2018/AD-PIC-4.jpg",
+		"updatetype":"ALBUM",
+		"contentCaption":"Students having fun",
+		"albumName":"ANNUAL_DAY_2018",
+		"albumDescription":"Annual Day Celebrations"
+	}]
+}
+
+4. EVENT Type
+
+{
+	"updateTitle":"Childrens Day Celebrations",
+	"updateType":"EVENT",
+	"updateDescription":"Welcome to our Childrens Day Celebrations",
+	"startDateTime":1522987200000,
+	"endDateTime":1522994400000,
+	"updateResources":[{
+		"contentValue":"http://localhost:8081/images/childrens_day_2018/CHILDREN_DAY_2018.jpg",
+		"contentKey":"CHILDREN_DAY-PIC-1",
+		"updatetype":"EVENT",
+		"contentCaption":"Childrens day celebrations at school"
+	}]
+}
+
+5. POLL Type
+
