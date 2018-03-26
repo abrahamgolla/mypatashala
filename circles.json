@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "circleId": "CIRCLE1522030864224",
+            "category": "CLASS",
+            "categoryDivision": "ALL",
+            "descsription": "Contains All students, Teachers of a class",
+            "createdBy": null,
+            "createdDateTime": 0,
+            "lastUpdatedBy": null,
+            "lastUpdatedDateTime": 0,
+            "branchId": null,
+            "classId": null,
+            "sectionId": null,
+            "schoolId": null,
+            "circleMembers": null
+        },
+        {
+            "circleId": "CIRCLE1522030886542",
+            "category": "BRANCH",
+            "categoryDivision": "ALL",
+            "descsription": "Contains All students, Teachers of a Branch",
+            "createdBy": null,
+            "createdDateTime": 0,
+            "lastUpdatedBy": null,
+            "lastUpdatedDateTime": 0,
+            "branchId": null,
+            "classId": null,
+            "sectionId": null,
+            "schoolId": null,
+            "circleMembers": null
+        }
+    ],
+    "result": true
+}
