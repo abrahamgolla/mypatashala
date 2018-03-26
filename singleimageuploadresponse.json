@@ -1,0 +1,4 @@
+{ 
+  data: "localhost:8081/images/profile/00140010.JPG", 
+  result: true 
+}
