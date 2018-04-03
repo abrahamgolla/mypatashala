@@ -21,27 +21,19 @@ UPDATES
 	"updateType":"PHOTOS",
 	"updateDescription":"Summer picnic at Celebrity Resorts",
 	"updateResources":[{
-		"contentValue":"http://localhost:8081/images/summer-picnic/SUMMER-PICNIC-1.jpg",
 		"contentKey":"SUMMER-PIC-1",
-		"updatetype":"PHOTOS",
 		"contentCaption":"Students having fun"
 	},
 	{
 		"contentKey":"SUMMER-PIC-2",
-		"contentValue":"http://localhost:8081/images/summer-picnic/SUMMER-PICNIC-2.jpg",
-		"updatetype":"PHOTOS",
 		"contentCaption":"Students having fun"
 	},
 	{
 		"contentKey":"SUMMER-PIC-3",
-		"contentValue":"http://localhost:8081/images/summer-picnic/SUMMER-PICNIC-3.jpg",
-		"updatetype":"PHOTOS",
 		"contentCaption":"Students having fun"
 	},
 	{
 		"contentKey":"SUMMER-PIC-4",
-		"contentValue":"http://localhost:8081/images/summer-picnic/SUMMER-PICNIC-4.jpg",
-		"updatetype":"PHOTOS",
 		"contentCaption":"Students having fun"
 	}]
 }
