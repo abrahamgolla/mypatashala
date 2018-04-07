@@ -6,8 +6,6 @@ UPDATES
 	"updateTitle":"Easter Celebrations",
 	"updateType":"URL",
 	"updateDescription":"Welcome to our Easter Celebrations",
-	"startDateTime":1522540800000,
-	"endDateTime":1522548000000,
 	"urlPreviewTitle":"New life Assembly of God Church",
 	"urlPreviewDescription":"WIN the Lost, BUILD the Believer, and SEND into the Harvest. We declare that Prayer is our Priority, Evangelism is our Passion, and Discipleship is our Purpose.",
 	"previewImageUrl":"http://newlifeag.in/sites/default/files/newlife-Logo.png",
@@ -44,38 +42,23 @@ UPDATES
 	"updateTitle":"Annual Day",
 	"updateType":"ALBUM",
 	"updateDescription":"Our school Annual Day Celebrations",
+	"albumName":"ANNUAL_DAY_2018",
+	"albumDescription":"Annual Day Celebrations"
 	"updateResources":[{
-		"contentValue":"http://localhost:8081/images/annual_day_2018/AD-PIC-1.jpg",
 		"contentKey":"AD-PIC-1",
-		"updatetype":"ALBUM",
-		"contentCaption":"Students having fun",
-		"albumName":"ANNUAL_DAY_2018",
-		"albumDescription":"Annual Day Celebrations"
-		
+		"contentCaption":"Students having fun"
 	},
 	{
 		"contentKey":"AD-PIC-2",
-		"contentValue":"http://localhost:8081/images/annual_day_2018/AD-PIC-2.jpg",
-		"updatetype":"ALBUM",
-		"contentCaption":"Students having fun",
-		"albumName":"ANNUAL_DAY_2018",
-		"albumDescription":"Annual Day Celebrations"
+		"contentCaption":"Students having fun"
 	},
 	{
 		"contentKey":"AD-PIC-3",
-		"contentValue":"http://localhost:8081/images/annual_day_2018/AD-PIC-3.jpg",
-		"updatetype":"ALBUM",
-		"contentCaption":"Students having fun",
-		"albumName":"ANNUAL_DAY_2018",
-		"albumDescription":"Annual Day Celebrations"
+		"contentCaption":"Students having fun"
 	},
 	{
 		"contentKey":"AD-PIC-4",
-		"contentValue":"http://localhost:8081/images/annual_day_2018/AD-PIC-4.jpg",
-		"updatetype":"ALBUM",
-		"contentCaption":"Students having fun",
-		"albumName":"ANNUAL_DAY_2018",
-		"albumDescription":"Annual Day Celebrations"
+		"contentCaption":"Students having fun"
 	}]
 }
 
@@ -88,9 +71,7 @@ UPDATES
 	"startDateTime":1522987200000,
 	"endDateTime":1522994400000,
 	"updateResources":[{
-		"contentValue":"http://localhost:8081/images/childrens_day_2018/CHILDREN_DAY_2018.jpg",
 		"contentKey":"CHILDREN_DAY-PIC-1",
-		"updatetype":"EVENT",
 		"contentCaption":"Childrens day celebrations at school"
 	}]
 }
