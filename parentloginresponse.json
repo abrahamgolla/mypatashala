@@ -1,13 +1,13 @@
 {
     "data": {
         "user": {
-            "lastName": "Jasper",
+            "lastName": "Gundaboena",
             "gender": "MALE",
             "relationDescription": "FATHER",
             "phone2": "9999999999",
             "students": [
                 {
-                    "lastName": "Jasper",
+                    "lastName": "Gundaboena",
                     "lastUpdatedBy": null,
                     "addresses": null,
                     "effectiveSequence": 0,
@@ -17,12 +17,12 @@
                     "section": null,
                     "dateOfBirth": 1444435200000,
                     "joiningDate": 1530921600000,
-                    "userIdentity": null,
+                    "userIdentity": "AADHAR",
                     "schoolBranch": null,
                     "studentClass": {
                         "sectionAvailable": false,
                         "schoolSections": null,
-                        "classId": "CLASS1519825716561",
+                        "classId": "CLASS1523126123666",
                         "classSubjects": null,
                         "schoolbranch": {
                             "country": {
@@ -38,7 +38,7 @@
                                 "cityEnabled": true,
                                 "states": null
                             },
-                            "lastUpdated_dttm": 1519825636000,
+                            "lastUpdated_dttm": 1523126102000,
                             "city": "Hyderabad",
                             "coEd": false,
                             "postalCode": 500026,
@@ -47,7 +47,6 @@
                             "branchEnabled": true,
                             "schoolCalendars": null,
                             "school": null,
-                            "teachers": null,
                             "addressLine1": "8-43-17/25, Wellington Rd",
                             "addressLine2": "Krishnapuri, West Marredpally",
                             "addressLine3": "Secunderabad",
@@ -62,12 +61,13 @@
                             },
                             "branchType": null,
                             "addressLine4": null,
-                            "created_dttm": 1519825636000,
+                            "created_dttm": 1523126102000,
                             "branchLatitude": "17.4559811",
-                            "branchId": "BRANCH1519825636044",
+                            "branchId": "BRANCH1523126102046",
                             "lastUpdatedBy": "Abraham",
                             "classSubjects": null,
                             "branchName": "Hyderabad",
+                            "userResourceDetails": null,
                             "sections": null,
                             "categoryType": null,
                             "effectiveDateTime": 1515332915000,
@@ -84,28 +84,37 @@
                         },
                         "description": "Grade 5"
                     },
-                    "studentId": "STUDENT1520536744870",
+                    "studentId": "STUDENT1523211006647",
                     "issuingAuthority": null,
-                    "firstName": "Mary",
+                    "firstName": "Dia",
                     "school": null,
                     "effectiveDateTime": 0,
                     "createdBy": null,
-                    "identityNumber": null,
-                    "studentAvailable": false,
+                    "identityNumber": "187612345432",
+                    "studentAvailable": true,
                     "middleName": "Evangeline",
                     "lastUpdatedDateTime": 0,
                     "parents": null
                 }
             ],
-            "emailId": "joseph@gmail.com",
+            "emailId": "karthik@gmail.com",
             "userIdentity": null,
-            "parentId": "Parent15205367449580",
+            "parentId": "Parent15232110066980",
             "phone1": "9898989898",
-            "firstName": "Joseph",
+            "firstName": "Karthik",
             "identityNumber": null,
             "middleName": null,
+            "attributes": [
+                {
+                    "parent": null,
+                    "effectiveDate": 1523211006698,
+                    "effectiveStatus": true,
+                    "resourceType": "PARENT"
+                }
+            ],
             "relationship": "FATHER"
-        }
+        },
+        "defaultPassword": true
     },
     "result": true
 }
