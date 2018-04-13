@@ -78,3 +78,10 @@ UPDATES
 
 5. POLL Type
 
+{
+	"updateTitle": "Poll for the day",
+	"updateType": "POLL",
+	"updateDescription": "Which is your favourite subject?",
+	"option1": "MATHS",
+	"option2": "SOCIAL"
+}
