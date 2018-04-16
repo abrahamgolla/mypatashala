@@ -82,6 +82,8 @@ UPDATES
 	"updateTitle": "Poll for the day",
 	"updateType": "POLL",
 	"updateDescription": "Which is your favourite subject?",
+	"startDateTime":1522987200000,
+	"endDateTime":1522994400000,
 	"option1": "MATHS",
 	"option2": "SOCIAL"
 }
