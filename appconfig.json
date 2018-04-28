@@ -1,9 +1,387 @@
 {
     "data": {
-        "securityQuestions": [
-            "WHAT IS YOUR FAVOURITE FOOD?",
-            "WHAT IS YOUR FLOOR COLOR?",
-            "WHAT IS YOUR FIRST VEHICLE?"
+        "school": [
+            {
+                "effectiveDateTime": 0,
+                "schoolNameShort": "OLC",
+                "schoolId": "SCHOOL1524931291882",
+                "schoolFullName": "Olive Learning center",
+                "schoolBranches": [
+                    {
+                        "branchLatitude": "17.4559811",
+                        "country": {
+                            "stateEnabled": true,
+                            "countryCode": "IND",
+                            "address3Enabled": true,
+                            "address2Enabled": true,
+                            "address4Enabled": true,
+                            "countryName": "INDIA",
+                            "address1Enabled": true,
+                            "postalCodeEnabled": true,
+                            "states": [],
+                            "cityEnabled": true
+                        },
+                        "branchId": "BRANCH1524931336749",
+                        "city": "Hyderabad",
+                        "coEd": false,
+                        "postalCode": 500026,
+                        "classes": [
+                            {
+                                "sectionName": "A",
+                                "sectionEnabled": false,
+                                "classId": "CLASS15249313736370",
+                                "subjects": [
+                                    {
+                                        "boardId": "BRD1524930727931",
+                                        "createdDateTime": 0,
+                                        "subjectId": "SBJ1524931576463",
+                                        "updatedDateTime": 0,
+                                        "subjectName": "Maths"
+                                    }
+                                ],
+                                "createdDateTime": 0,
+                                "className": "Grade 10",
+                                "lastUpdatedDateTime": 0,
+                                "effectiveDate": 0,
+                                "effectiveStatus": true
+                            },
+                            {
+                                "sectionName": "A",
+                                "sectionEnabled": false,
+                                "classId": "CLASS15249313811080",
+                                "subjects": [],
+                                "createdDateTime": 0,
+                                "className": "Grade 9",
+                                "lastUpdatedDateTime": 0,
+                                "effectiveDate": 0,
+                                "effectiveStatus": true
+                            },
+                            {
+                                "sectionName": "A",
+                                "sectionEnabled": false,
+                                "classId": "CLASS15249313853340",
+                                "subjects": [],
+                                "createdDateTime": 0,
+                                "className": "Grade 8",
+                                "lastUpdatedDateTime": 0,
+                                "effectiveDate": 0,
+                                "effectiveStatus": true
+                            }
+                        ],
+                        "branchName": "Hyderabad",
+                        "branchLongitude": "78.506033",
+                        "branchEnabled": true,
+                        "effectiveDateTime": 0,
+                        "district": {
+                            "dateTime": 1515331715000,
+                            "country": {
+                                "stateEnabled": true,
+                                "countryCode": "IND",
+                                "address3Enabled": true,
+                                "address2Enabled": true,
+                                "address4Enabled": true,
+                                "countryName": "INDIA",
+                                "address1Enabled": true,
+                                "postalCodeEnabled": true,
+                                "states": [],
+                                "cityEnabled": true
+                            },
+                            "districtCode": "IND-TS-RR",
+                            "districtName": "Rangareddy",
+                            "districtEnabled": true,
+                            "effectiveDateTime": 1515331715000,
+                            "state": {
+                                "dateTime": 1515330815000,
+                                "country": {
+                                    "stateEnabled": true,
+                                    "countryCode": "IND",
+                                    "address3Enabled": true,
+                                    "address2Enabled": true,
+                                    "address4Enabled": true,
+                                    "countryName": "INDIA",
+                                    "address1Enabled": true,
+                                    "postalCodeEnabled": true,
+                                    "states": [],
+                                    "cityEnabled": true
+                                },
+                                "stateEnabled": true,
+                                "stateName": "TELANGANA",
+                                "effectiveDateTime": 1515330815000,
+                                "districts": [],
+                                "stateCode": "IND-TS"
+                            }
+                        },
+                        "addressLine1": "8-43-17/25, Wellington Rd",
+                        "addressLine2": "Krishnapuri, West Marredpally",
+                        "addressLine3": "Secunderabad",
+                        "state": {
+                            "dateTime": 1515330815000,
+                            "country": {
+                                "stateEnabled": true,
+                                "countryCode": "IND",
+                                "address3Enabled": true,
+                                "address2Enabled": true,
+                                "address4Enabled": true,
+                                "countryName": "INDIA",
+                                "address1Enabled": true,
+                                "postalCodeEnabled": true,
+                                "states": [],
+                                "cityEnabled": true
+                            },
+                            "stateEnabled": true,
+                            "stateName": "TELANGANA",
+                            "effectiveDateTime": 1515330815000,
+                            "districts": [],
+                            "stateCode": "IND-TS"
+                        }
+                    }
+                ],
+                "schoolMotto": "Building lives for future",
+                "schoolEnabled": true
+            }
+        ],
+        "securityQuestions": {
+            "setOneQuestions": [
+                "WHAT IS YOUR FAVOURITE FOOD?",
+                "WHAT IS YOUR FLOOR COLOR?",
+                "WHAT IS YOUR FIRST VEHICLE?",
+                "WHAT WAS THE NAME OF THE COMPANY WHERE YOU HAD YOUR FIRST JOB?",
+                "WHAT WAS THE NAME OF YOUR PRIMARY SCHOOL?"
+            ],
+            "setTwoQuestions": [
+                "WHAT WAS THE NAME OF THE HOSPITAL WHERE YOU WERE BORN?",
+                "IN WHAT TOWN WAS YOUR FIRST JOB?",
+                "WHO IS YOUR CHILDHOOD SPORTS HERO?",
+                "WHAT IS YOUR FAVORITE MOVIE?",
+                "WHAT IS THE NAME OF YOUR FAVORITE CHILDHOOD FRIEND?"
+            ]
+        },
+        "permissons": [
+            {
+                "rolePermissions": [
+                    {
+                        "functionId": "FN003",
+                        "functionName": "CREATE_UPDATE",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN009",
+                        "functionName": "CREATE_HOMEWORK",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN015",
+                        "functionName": "CREATE_PROMISE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN016",
+                        "functionName": "UPDATE_HOMEWORK",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN025",
+                        "functionName": "CREATE_LEAVE",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN026",
+                        "functionName": "APPROVE_LEAVE",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN034",
+                        "functionName": "CREATE_POLL",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN038",
+                        "functionName": "ANSWER_POLL",
+                        "diplayOnlySW": true
+                    }
+                ],
+                "userRole": "CLASSTEACHER"
+            },
+            {
+                "rolePermissions": [
+                    {
+                        "functionId": "FN001",
+                        "functionName": "CREATE_UPDATE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN007",
+                        "functionName": "CREATE_HOMEWORK",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN013",
+                        "functionName": "CREATE_PROMISE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN020",
+                        "functionName": "UPDATE_HOMEWORK",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN021",
+                        "functionName": "CREATE_LEAVE",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN030",
+                        "functionName": "APPROVE_LEAVE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN031",
+                        "functionName": "CREATE_POLL",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN040",
+                        "functionName": "ANSWER_POLL",
+                        "diplayOnlySW": true
+                    }
+                ],
+                "userRole": "PARENT"
+            },
+            {
+                "rolePermissions": [
+                    {
+                        "functionId": "FN004",
+                        "functionName": "CREATE_UPDATE",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN010",
+                        "functionName": "CREATE_HOMEWORK",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN011",
+                        "functionName": "CREATE_PROMISE",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN019",
+                        "functionName": "UPDATE_HOMEWORK",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN023",
+                        "functionName": "CREATE_LEAVE",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN027",
+                        "functionName": "APPROVE_LEAVE",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN035",
+                        "functionName": "CREATE_POLL",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN036",
+                        "functionName": "ANSWER_POLL",
+                        "diplayOnlySW": true
+                    }
+                ],
+                "userRole": "PRINCIPAL"
+            },
+            {
+                "rolePermissions": [
+                    {
+                        "functionId": "FN005",
+                        "functionName": "CREATE_UPDATE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN006",
+                        "functionName": "CREATE_HOMEWORK",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN012",
+                        "functionName": "CREATE_PROMISE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN018",
+                        "functionName": "UPDATE_HOMEWORK",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN022",
+                        "functionName": "CREATE_LEAVE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN029",
+                        "functionName": "APPROVE_LEAVE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN032",
+                        "functionName": "CREATE_POLL",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN039",
+                        "functionName": "ANSWER_POLL",
+                        "diplayOnlySW": true
+                    }
+                ],
+                "userRole": "STUDENT"
+            },
+            {
+                "rolePermissions": [
+                    {
+                        "functionId": "FN002",
+                        "functionName": "CREATE_UPDATE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN008",
+                        "functionName": "CREATE_HOMEWORK",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN014",
+                        "functionName": "CREATE_PROMISE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN017",
+                        "functionName": "UPDATE_HOMEWORK",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN024",
+                        "functionName": "CREATE_LEAVE",
+                        "diplayOnlySW": true
+                    },
+                    {
+                        "functionId": "FN028",
+                        "functionName": "APPROVE_LEAVE",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN033",
+                        "functionName": "CREATE_POLL",
+                        "diplayOnlySW": false
+                    },
+                    {
+                        "functionId": "FN037",
+                        "functionName": "ANSWER_POLL",
+                        "diplayOnlySW": true
+                    }
+                ],
+                "userRole": "TEACHER"
+            }
         ]
     },
     "result": true
