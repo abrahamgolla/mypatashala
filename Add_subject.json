@@ -43,3 +43,52 @@
   	}]
   }]
 }
+
+##########################################################################################
+
+{
+  "subjectName":"Social",
+  "description":"Social Science",
+  "classId":{{CLASS_ID_1}},
+  "boardId":{{BOARD_ID}},
+  "chapters":[{
+  	"chapterTitle":"India and Contemporary world II",
+  	"description":"1",
+  	"topics":[{
+  		"subChapterTitle":"The Rise of Nationalism in Europe",
+  		"description":"1.1"
+  	},
+  	{
+  		"subChapterTitle":"The Nationalist movement in India - China",
+  		"description":"1.2"
+  	},
+  	{
+  		"subChapterTitle":"The Making of a Global World",
+  		"description":"1.3"
+  	},
+  	{
+  		"subChapterTitle":"The age of Industrilization",
+  		"description":"1.4"
+  	}]
+  },{
+  	"chapterTitle":"Contemporary India II",
+  	"description":"2",
+  	"topics":[{
+  		"subChapterTitle":"Resources and Development",
+  		"description":"2.1"
+  	},
+  	{
+  		"subChapterTitle":"Water Resources",
+  		"description":"2.2"
+  	},
+  	{
+  		"subChapterTitle":"Agriculture",
+  		"description":"2.3"
+  	},
+  	{
+  		"subChapterTitle":"Minerals",
+  		"description":"2.4"
+  	}]
+  }]
+}
+
