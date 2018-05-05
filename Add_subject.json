@@ -91,4 +91,50 @@
   	}]
   }]
 }
+#######################################################################################
 
+{
+  "subjectName":"Science",
+  "description":"Science",
+  "classId":{{CLASS_ID_1}},
+  "boardId":{{BOARD_ID}},
+  "chapters":[{
+  	"chapterTitle":"Chemical Substances - Nature & Behaviour",
+  	"description":"1",
+  	"topics":[{
+  		"subChapterTitle":"Chemical Equation",
+  		"description":"1.1"
+  	},
+  	{
+  		"subChapterTitle":"Acids, Bases and Salts",
+  		"description":"1.2"
+  	},
+  	{
+  		"subChapterTitle":"Metals and non metals",
+  		"description":"1.3"
+  	},
+  	{
+  		"subChapterTitle":"Carbon Compounds",
+  		"description":"1.4"
+  	}]
+  },{
+  	"chapterTitle":"World of Living",
+  	"description":"2",
+  	"topics":[{
+  		"subChapterTitle":"Life Processes",
+  		"description":"2.1"
+  	},
+  	{
+  		"subChapterTitle":"Control and co-ordination in animals and plants",
+  		"description":"2.2"
+  	},
+  	{
+  		"subChapterTitle":"Reproduction",
+  		"description":"2.3"
+  	},
+  	{
+  		"subChapterTitle":"Heredity and Evolution",
+  		"description":"2.4"
+  	}]
+  }]
+}
