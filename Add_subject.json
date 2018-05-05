@@ -138,3 +138,47 @@
   	}]
   }]
 }
+
+########################################################################################
+
+{
+  "subjectName":"Geography",
+  "description":"Social",
+  "classId":{{CLASS_ID_1}},
+  "boardId":{{BOARD_ID}},
+  "chapters":[{
+  	"chapterTitle":"Our World",
+  	"description":"1",
+  	"topics":[{
+  		"subChapterTitle":"Earth as a Planet",
+  		"description":"1.1"
+  	},
+  	{
+  		"subChapterTitle":"Geographic grid - Latitudes & Longitudes",
+  		"description":"1.2"
+  	},
+  	{
+  		"subChapterTitle":"Rotation and revolution",
+  		"description":"1.3"
+  	}]
+  },{
+  	"chapterTitle":"Structire of the Earth",
+  	"description":"2",
+  	"topics":[{
+  		"subChapterTitle":"Earths Structure",
+  		"description":"2.1"
+  	},
+  	{
+  		"subChapterTitle":"Landforms of the Earth",
+  		"description":"2.2"
+  	},
+  	{
+  		"subChapterTitle":"Rocks - difference between minerals and rocks",
+  		"description":"2.3"
+  	},
+  	{
+  		"subChapterTitle":"volcanoes",
+  		"description":"2.4"
+  	}]
+  }]
+}
