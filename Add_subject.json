@@ -1,0 +1,45 @@
+{
+  "subjectName":"Maths",
+  "description":"Mathematics",
+  "classId":{{CLASS_ID_1}},
+  "boardId":{{BOARD_ID}},
+  "chapters":[{
+  	"chapterTitle":"Sets",
+  	"description":"1",
+  	"topics":[{
+  		"subChapterTitle":"Introduction",
+  		"description":"1.1"
+  	},
+  	{
+  		"subChapterTitle":"Sets and their Representations",
+  		"description":"1.2"
+  	},
+  	{
+  		"subChapterTitle":"The Empty Set",
+  		"description":"1.3"
+  	},
+  	{
+  		"subChapterTitle":"Finite and Infinite Sets",
+  		"description":"1.4"
+  	}]
+  },{
+  	"chapterTitle":"Relations and Functions",
+  	"description":"2",
+  	"topics":[{
+  		"subChapterTitle":"Introduction",
+  		"description":"2.1"
+  	},
+  	{
+  		"subChapterTitle":"Cartesian Products of Sets",
+  		"description":"2.2"
+  	},
+  	{
+  		"subChapterTitle":"Relations",
+  		"description":"2.3"
+  	},
+  	{
+  		"subChapterTitle":"Functions",
+  		"description":"2.4"
+  	}]
+  }]
+}
