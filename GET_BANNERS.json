@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "bannerId": "Banner123",
+            "imageUrl": "/images/Banners/image1.jpg",
+            "createdDateTime": 0,
+            "enabled": true
+        },
+        {
+            "bannerId": "Banner124",
+            "imageUrl": "/images/Banners/image2.jpg",
+            "createdDateTime": 0,
+            "enabled": true
+        },
+        {
+            "bannerId": "Banner125",
+            "imageUrl": "/images/Banners/image3.jpg",
+            "createdDateTime": 0,
+            "enabled": true
+        }
+    ],
+    "result": true
+}
