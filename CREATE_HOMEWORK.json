@@ -1,0 +1,19 @@
+{
+	"classid":{{CLASS_ID_1}},
+	"subjectid":{{SUBJECT_ID_2}},
+	"chapterid":"CHPTR15255149390500",
+	"subchapterid":{{SUB_CHAPTER_ID}},
+	"homeWorkTitle":"Maths Homework",
+	"homeWorkDescription":"Please solve 10 problems",
+	"homeWorkDueDate":1525492800000,
+	"attachments":[{
+		"attachmentType":"IMAGE",
+		"attachmentCaption":"Optional",
+		"contentkey":"image1.jpeg"
+	},
+	{
+		"attachmentType":"PDF",
+		"attachmentCaption":"Optional",
+		"contentkey":"image2.jpeg"
+	}]
+}
