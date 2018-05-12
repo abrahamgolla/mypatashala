@@ -1,0 +1,71 @@
+{
+    "data": [
+        {
+            "homeWorkId": "HWRK1525511898077",
+            "branchClass": {
+                "classId": "CLASS15255105910740",
+                "sectionName": "A",
+                "className": "Grade 8",
+                "effectiveDate": 0,
+                "effectiveStatus": false,
+                "createdDateTime": 0,
+                "lastUpdatedDateTime": 0,
+                "sectionEnabled": false
+            },
+            "subject": {
+                "subjectId": "SBJ1525510828526",
+                "subjectName": "Maths",
+                "createdDateTime": 0,
+                "updatedDateTime": 0,
+                "boardId": "BRD1525510426322",
+                "branchClass": {
+                    "classId": "CLASS15255105910740",
+                    "sectionName": "A",
+                    "className": "Grade 8",
+                    "effectiveDate": 0,
+                    "effectiveStatus": false,
+                    "createdDateTime": 0,
+                    "lastUpdatedDateTime": 0,
+                    "sectionEnabled": false
+                }
+            },
+            "chapter": {
+                "chapterId": "CHPTR15255108285288",
+                "chapterTitle": "Relations and Functions",
+                "description": "2",
+                "createdDateTime": 0,
+                "updatedDateTime": 0
+            },
+            "subChapter": {
+                "subChapterId": "SUBCHPTR15255108285288",
+                "subChapterTitle": "Introduction",
+                "description": "1.1",
+                "createdDateTime": 0,
+                "updatedDateTime": 0
+            },
+            "homeWorkTitle": "Maths Homework",
+            "homeWorkDescription": "Please solve 10 problems",
+            "homeWorkDueDate": 1526097600000,
+            "createdDateTime": 0,
+            "lastUpdatedDateTime": 0,
+            "attachments": [
+                {
+                    "attachmentId": "HWAttch15255118980920",
+                    "attachmentType": "IMAGE",
+                    "attachmentUrl": "/images/HWRK1525511898077/image1.jpeg",
+                    "attachmentCaption": "Optional",
+                    "attachedDateTime": 0
+                },
+                {
+                    "attachmentId": "HWAttch15255118980921",
+                    "attachmentType": "PDF",
+                    "attachmentUrl": "/images/HWRK1525511898077/image2.jpeg",
+                    "attachmentCaption": "Optional",
+                    "attachedDateTime": 0
+                }
+            ],
+            "homeWorkEnabled": false
+        }
+    ],
+    "result": true
+}
