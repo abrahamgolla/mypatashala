@@ -1,0 +1,15 @@
+{
+	"classid":{{CLASS_ID_1}},
+	"notes":"",
+	"status":"INPROGRESS",
+	"attachments":[{
+		"attachmentType":"IMAGE",
+		"attachmentCaption":"Optional",
+		"contentkey":"image1.jpeg"
+	},
+	{
+		"attachmentType":"PDF",
+		"attachmentCaption":"Optional",
+		"contentkey":"image2.jpeg"
+	}]
+}
