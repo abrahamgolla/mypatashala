@@ -1,0 +1,436 @@
+{
+    "data": [
+        {
+            "homework": {
+                "homeworklist": [],
+                "DAY": "Fri May 18 23:29:38 IST 2018"
+            },
+            "subjects": []
+        },
+        {
+            "homework": {
+                "homeworklist": [
+                    {
+                        "homeWork": {
+                            "homeWorkDescription": "Please solve 10 problems",
+                            "homeWorkDueDate": 1526580000000,
+                            "chapter": {
+                                "chapterId": "CHPTR15255108285288",
+                                "description": "2",
+                                "createdDateTime": 0,
+                                "chapterTitle": "Relations and Functions",
+                                "updatedDateTime": 0
+                            },
+                            "attachments": [
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HWRK1526574230142/image1.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "IMAGE",
+                                    "attachmentId": "HWAttch15265742301420"
+                                },
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HWRK1526574230142/image2.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "PDF",
+                                    "attachmentId": "HWAttch15265742301421"
+                                }
+                            ],
+                            "branchClass": {
+                                "sectionEnabled": false,
+                                "sectionName": "A",
+                                "classId": "CLASS15255105910740",
+                                "createdDateTime": 0,
+                                "className": "Grade 8",
+                                "lastUpdatedDateTime": 0,
+                                "effectiveDate": 0,
+                                "effectiveStatus": false
+                            },
+                            "homeWorkTitle": "Maths Homework",
+                            "subject": {
+                                "branchClass": {
+                                    "sectionEnabled": false,
+                                    "sectionName": "A",
+                                    "classId": "CLASS15255105910740",
+                                    "createdDateTime": 0,
+                                    "className": "Grade 8",
+                                    "lastUpdatedDateTime": 0,
+                                    "effectiveDate": 0,
+                                    "effectiveStatus": false
+                                },
+                                "createdDateTime": 0,
+                                "boardId": "BRD1525510426322",
+                                "subjectId": "SBJ1525510828526",
+                                "subjectName": "Maths",
+                                "updatedDateTime": 0
+                            },
+                            "createdDateTime": 0,
+                            "homeWorkEnabled": false,
+                            "subChapter": {
+                                "subChapterTitle": "The Empty Set",
+                                "description": "1.3",
+                                "createdDateTime": 0,
+                                "subChapterId": "SUBCHPTR152551082852810",
+                                "updatedDateTime": 0
+                            },
+                            "teacher": {
+                                "lastName": "Khumathem",
+                                "lastUpdated_dttm": 0,
+                                "resourceId": "Res1525510915369",
+                                "ssnID": "142325869654",
+                                "emailId": "ruth@olive.com",
+                                "userIdentityType": "AADHAR",
+                                "deviceStatus": false,
+                                "firstName": "Sam",
+                                "phone_primary": "9999999999",
+                                "personalEmailId": "ruth@gmail.com",
+                                "resourceEnabled": true,
+                                "effectiveDate": 0,
+                                "created_dttm": 0
+                            },
+                            "homeWorkId": "HWRK1526574230142",
+                            "lastUpdatedDateTime": 0
+                        },
+                        "createdDateTime": 0,
+                        "lastUpdatedDateTime": 0,
+                        "homeWorkStatus": "NEW"
+                    }
+                ],
+                "DAY": "Thu May 17 23:29:38 IST 2018"
+            },
+            "subjects": [
+                "Maths"
+            ]
+        },
+        {
+            "homework": {
+                "homeworklist": [
+                    {
+                        "homeWork": {
+                            "homeWorkDescription": "Please solve 10 problems",
+                            "homeWorkDueDate": 1526493600000,
+                            "chapter": {
+                                "chapterId": "CHPTR15255108285288",
+                                "description": "2",
+                                "createdDateTime": 0,
+                                "chapterTitle": "Relations and Functions",
+                                "updatedDateTime": 0
+                            },
+                            "attachments": [
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HWRK1526574978848/image1.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "IMAGE",
+                                    "attachmentId": "HWAttch15265749788480"
+                                },
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HWRK1526574978848/image2.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "PDF",
+                                    "attachmentId": "HWAttch15265749788491"
+                                }
+                            ],
+                            "branchClass": {
+                                "sectionEnabled": false,
+                                "sectionName": "A",
+                                "classId": "CLASS15255105910740",
+                                "createdDateTime": 0,
+                                "className": "Grade 8",
+                                "lastUpdatedDateTime": 0,
+                                "effectiveDate": 0,
+                                "effectiveStatus": false
+                            },
+                            "homeWorkTitle": "Maths Homework",
+                            "subject": {
+                                "branchClass": {
+                                    "sectionEnabled": false,
+                                    "sectionName": "A",
+                                    "classId": "CLASS15255105910740",
+                                    "createdDateTime": 0,
+                                    "className": "Grade 8",
+                                    "lastUpdatedDateTime": 0,
+                                    "effectiveDate": 0,
+                                    "effectiveStatus": false
+                                },
+                                "createdDateTime": 0,
+                                "boardId": "BRD1525510426322",
+                                "subjectId": "SBJ1525510828526",
+                                "subjectName": "Maths",
+                                "updatedDateTime": 0
+                            },
+                            "createdDateTime": 0,
+                            "homeWorkEnabled": false,
+                            "subChapter": {
+                                "subChapterTitle": "The Empty Set",
+                                "description": "1.3",
+                                "createdDateTime": 0,
+                                "subChapterId": "SUBCHPTR152551082852810",
+                                "updatedDateTime": 0
+                            },
+                            "teacher": {
+                                "lastName": "Khumathem",
+                                "lastUpdated_dttm": 0,
+                                "resourceId": "Res1525510915369",
+                                "ssnID": "142325869654",
+                                "emailId": "ruth@olive.com",
+                                "userIdentityType": "AADHAR",
+                                "deviceStatus": false,
+                                "firstName": "Sam",
+                                "phone_primary": "9999999999",
+                                "personalEmailId": "ruth@gmail.com",
+                                "resourceEnabled": true,
+                                "effectiveDate": 0,
+                                "created_dttm": 0
+                            },
+                            "homeWorkId": "HWRK1526574978848",
+                            "lastUpdatedDateTime": 0
+                        },
+                        "createdDateTime": 0,
+                        "lastUpdatedDateTime": 0,
+                        "homeWorkStatus": "NEW"
+                    }
+                ],
+                "DAY": "Wed May 16 23:29:38 IST 2018"
+            },
+            "subjects": [
+                "Maths"
+            ]
+        },
+        {
+            "homework": {
+                "homeworklist": [
+                    {
+                        "homeWork": {
+                            "homeWorkDescription": "Please solve 10 problems",
+                            "homeWorkDueDate": 1526407200000,
+                            "chapter": {
+                                "chapterId": "CHPTR15255108285288",
+                                "description": "2",
+                                "createdDateTime": 0,
+                                "chapterTitle": "Relations and Functions",
+                                "updatedDateTime": 0
+                            },
+                            "attachments": [
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HWRK1526576572656/image1.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "IMAGE",
+                                    "attachmentId": "HWAttch15265765726560"
+                                },
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HWRK1526576572656/image2.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "PDF",
+                                    "attachmentId": "HWAttch15265765726571"
+                                }
+                            ],
+                            "branchClass": {
+                                "sectionEnabled": false,
+                                "sectionName": "A",
+                                "classId": "CLASS15255105910740",
+                                "createdDateTime": 0,
+                                "className": "Grade 8",
+                                "lastUpdatedDateTime": 0,
+                                "effectiveDate": 0,
+                                "effectiveStatus": false
+                            },
+                            "homeWorkTitle": "Maths Homework",
+                            "subject": {
+                                "branchClass": {
+                                    "sectionEnabled": false,
+                                    "sectionName": "A",
+                                    "classId": "CLASS15255105910740",
+                                    "createdDateTime": 0,
+                                    "className": "Grade 8",
+                                    "lastUpdatedDateTime": 0,
+                                    "effectiveDate": 0,
+                                    "effectiveStatus": false
+                                },
+                                "createdDateTime": 0,
+                                "boardId": "BRD1525510426322",
+                                "subjectId": "SBJ1525510828526",
+                                "subjectName": "Maths",
+                                "updatedDateTime": 0
+                            },
+                            "createdDateTime": 0,
+                            "homeWorkEnabled": false,
+                            "subChapter": {
+                                "subChapterTitle": "The Empty Set",
+                                "description": "1.3",
+                                "createdDateTime": 0,
+                                "subChapterId": "SUBCHPTR152551082852810",
+                                "updatedDateTime": 0
+                            },
+                            "teacher": {
+                                "lastName": "Khumathem",
+                                "lastUpdated_dttm": 0,
+                                "resourceId": "Res1525510915369",
+                                "ssnID": "142325869654",
+                                "emailId": "ruth@olive.com",
+                                "userIdentityType": "AADHAR",
+                                "deviceStatus": false,
+                                "firstName": "Sam",
+                                "phone_primary": "9999999999",
+                                "personalEmailId": "ruth@gmail.com",
+                                "resourceEnabled": true,
+                                "effectiveDate": 0,
+                                "created_dttm": 0
+                            },
+                            "homeWorkId": "HWRK1526576572656",
+                            "lastUpdatedDateTime": 0
+                        },
+                        "createdDateTime": 0,
+                        "lastUpdatedDateTime": 0,
+                        "homeWorkStatus": "NEW"
+                    },
+                    {
+                        "homeWork": {
+                            "homeWorkDescription": "Please solve the problems",
+                            "homeWorkDueDate": 1526407200000,
+                            "chapter": {
+                                "chapterId": "CHPTR15255108285288",
+                                "description": "2",
+                                "createdDateTime": 0,
+                                "chapterTitle": "Relations and Functions",
+                                "updatedDateTime": 0
+                            },
+                            "attachments": [
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HOMEWORK/image1.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "IMAGE",
+                                    "attachmentId": "HWAttch15265877218820"
+                                },
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HOMEWORK/image2.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "PDF",
+                                    "attachmentId": "HWAttch15265877218821"
+                                },
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HOMEWORK/image1.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "IMAGE",
+                                    "attachmentId": "HWAttch15266649674320"
+                                },
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HOMEWORK/image2.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "PDF",
+                                    "attachmentId": "HWAttch15266649674351"
+                                },
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HOMEWORK/image1.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "IMAGE",
+                                    "attachmentId": "HWAttch15266649907650"
+                                },
+                                {
+                                    "attachmentCaption": "Optional",
+                                    "attachmentUrl": "/images/HOMEWORK/image2.jpeg",
+                                    "attachedDateTime": 0,
+                                    "attachmentType": "PDF",
+                                    "attachmentId": "HWAttch15266649907651"
+                                }
+                            ],
+                            "branchClass": {
+                                "sectionEnabled": false,
+                                "sectionName": "A",
+                                "classId": "CLASS15255105910740",
+                                "createdDateTime": 0,
+                                "className": "Grade 8",
+                                "lastUpdatedDateTime": 0,
+                                "effectiveDate": 0,
+                                "effectiveStatus": false
+                            },
+                            "homeWorkTitle": "Maths Homework",
+                            "subject": {
+                                "branchClass": {
+                                    "sectionEnabled": false,
+                                    "sectionName": "A",
+                                    "classId": "CLASS15255105910740",
+                                    "createdDateTime": 0,
+                                    "className": "Grade 8",
+                                    "lastUpdatedDateTime": 0,
+                                    "effectiveDate": 0,
+                                    "effectiveStatus": false
+                                },
+                                "createdDateTime": 0,
+                                "boardId": "BRD1525510426322",
+                                "subjectId": "SBJ1525510828526",
+                                "subjectName": "Maths",
+                                "updatedDateTime": 0
+                            },
+                            "createdDateTime": 0,
+                            "homeWorkEnabled": false,
+                            "subChapter": {
+                                "subChapterTitle": "The Empty Set",
+                                "description": "1.3",
+                                "createdDateTime": 0,
+                                "subChapterId": "SUBCHPTR152551082852810",
+                                "updatedDateTime": 0
+                            },
+                            "additionalComments": "For additional details please refer pages 10-20",
+                            "teacher": {
+                                "lastName": "Khumathem",
+                                "lastUpdated_dttm": 0,
+                                "resourceId": "Res1525510915369",
+                                "ssnID": "142325869654",
+                                "emailId": "ruth@olive.com",
+                                "userIdentityType": "AADHAR",
+                                "deviceStatus": false,
+                                "firstName": "Sam",
+                                "phone_primary": "9999999999",
+                                "personalEmailId": "ruth@gmail.com",
+                                "resourceEnabled": true,
+                                "effectiveDate": 0,
+                                "created_dttm": 0
+                            },
+                            "homeWorkId": "HWRK1526587721879",
+                            "lastUpdatedDateTime": 0
+                        },
+                        "createdDateTime": 0,
+                        "lastUpdatedDateTime": 0,
+                        "homeWorkStatus": "NEW"
+                    }
+                ],
+                "DAY": "Tue May 15 23:29:38 IST 2018"
+            },
+            "subjects": [
+                "Maths"
+            ]
+        },
+        {
+            "homework": {
+                "homeworklist": [],
+                "DAY": "Mon May 14 23:29:38 IST 2018"
+            },
+            "subjects": []
+        },
+        {
+            "homework": {
+                "homeworklist": [],
+                "DAY": "Sun May 13 23:29:38 IST 2018"
+            },
+            "subjects": []
+        },
+        {
+            "homework": {
+                "homeworklist": [],
+                "DAY": "Sat May 12 23:29:38 IST 2018"
+            },
+            "subjects": []
+        }
+    ],
+    "result": true
+}
