@@ -1,0 +1,15 @@
+{
+	"homeWorkDescription":"Please solve the problems",
+	"additionalComments":"For additional details please refer pages 10-20",
+	"homeWorkDueDate":1526407200000,
+	"attachments":[{
+		"attachmentType":"IMAGE",
+		"attachmentCaption":"Optional",
+		"contentkey":"image1.jpeg"
+	},
+	{
+		"attachmentType":"PDF",
+		"attachmentCaption":"Optional",
+		"contentkey":"image2.jpeg"
+	}]
+}
