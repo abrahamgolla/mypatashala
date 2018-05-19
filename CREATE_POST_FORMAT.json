@@ -87,3 +87,11 @@ UPDATES
 	"option1": "MATHS",
 	"option2": "SOCIAL"
 }
+
+6. TEXT Type:
+
+{
+	"updateTitle":"Simple Text",
+	"updateType":"TEXT",
+	"updateDescription":"Hi Good Evening!!"
+}
