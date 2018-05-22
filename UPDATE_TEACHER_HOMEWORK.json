@@ -2,6 +2,7 @@
 	"homeWorkDescription":"Please solve the problems",
 	"additionalComments":"For additional details please refer pages 10-20",
 	"homeWorkDueDate":1526407200000,
+	"subChapterId":{{SUBCHAPTER_ID}},
 	"attachments":[{
 		"attachmentType":"IMAGE",
 		"attachmentCaption":"Optional",
